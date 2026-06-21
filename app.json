@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "GempaApp",
+    "slug": "gempa-app",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0"
+  }
+}
