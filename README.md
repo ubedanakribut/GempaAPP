@@ -181,15 +181,6 @@ service cloud.firestore {
 
 ---
 
-## Komponen Penilaian
-
-| Komponen | Bobot | Implementasi dalam Proyek |
-|----------|-------|--------------------------|
-| Implementasi Axios | 25% | `bmkgService.js` — Axios instance, interceptors request/response, timeout, error handling terpusat |
-| Implementasi Firebase | 25% | `firebaseService.js` — Auth (register/login/logout/session) + Firestore (create/read/delete) + security rules |
-| UI/UX & Kerapian Kode | 15% | StyleSheet terpisah per screen, komponen reusable, navigasi Auth gate |
-| Kerja sama & Git Log | 15% | Commit dipisah per anggota sesuai pembagian tugas di atas |
-| Penguasaan Materi / Demo | 20% | Anggota 1 demo Fitur 1 & 2, Anggota 2 demo Fitur 3 + setup Firebase |
 
 ---
 
